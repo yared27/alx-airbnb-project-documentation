@@ -2,4 +2,4 @@
 
 ## 🧩 Features and Functionalities Diagram
 
-![Features Diagram](features-and-functionalities/features-and-functionality.drawio.png)
+![Features Diagram](features-and-functionalities/feature-and-functionality.drawio.png)
